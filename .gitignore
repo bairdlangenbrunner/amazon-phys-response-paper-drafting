@@ -2,7 +2,7 @@
 ################
 *.npy
 *.mp4
-figures
+figures/
 
 # Compiled source #
 ###################
